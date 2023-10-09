@@ -6,10 +6,10 @@ React ile Contact List
 Uygulama Hakkında
 -------------------------
 Bu proje Components, Props, States gibi konuların pekiştirilmesi amacıyla yapılmıştır.
+C:\Users\Bahri Can Öz\Videos\Captures\ContactList.mp4
 
 
 
 
 
-https://github.com/Bahricanoz/ContactReact/assets/128741075/554c2008-9ffd-466d-b6d0-eff340965c15
 
