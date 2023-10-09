@@ -7,3 +7,9 @@ Uygulama Hakkında
 -------------------------
 Bu proje Components, Props, States gibi konuların pekiştirilmesi amacıyla yapılmıştır.
 
+
+
+
+
+https://github.com/Bahricanoz/ContactReact/assets/128741075/554c2008-9ffd-466d-b6d0-eff340965c15
+
